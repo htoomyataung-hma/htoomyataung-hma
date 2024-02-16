@@ -9,7 +9,10 @@
 
 - 🌱 I’m currently learning **Django Framework,Odoo Framework,FastAPI**
 
-- 📫 How to reach me **htoomyataung104@gmail.com**
+- 📫 How to reach me **htoomyata7823@gmail.com**
+
+- Portfolio https://htoomyataung-hma.github.io/portfolio-hma/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
