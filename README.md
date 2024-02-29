@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htoomyataung-hma" alt="htoomyataung-hma" /></a> </p>
 
-- 🔭 I’m currently working on **Calories Tracker**
+- 🔭 I’m currently working on **Patient-app using reactjs and django**
 
 - 🌱 I’m currently learning **Django Framework,Odoo Framework,FastAPI**
 
