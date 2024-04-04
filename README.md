@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Htoo Myat Aung(HADRIAN)</h1>
-<h3 align="center">A passionate Python/Backend Developer from Myanmar</h3>
+<h3 align="center">A passionate Python/Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htoomyataung-hma&label=Profile%20views&color=0e75b6&style=flat" alt="htoomyataung-hma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htoomyataung-hma" alt="htoomyataung-hma" /></a> </p>
 
-- 🔭 I’m currently working on **Patient-app using reactjs and django**
+- 🔭 I’m currently working on **Fast API integrate with Django Framework**
 
 - 🌱 I’m currently learning **Django Framework,Odoo Framework,FastAPI**
 
